@@ -1,3 +1,3 @@
 class Item < ApplicationRecord 
-    belongs_to :sellers
+    belongs_to :seller
 end 
